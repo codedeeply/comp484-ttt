@@ -186,3 +186,13 @@ body {
     color: white;
     background-color: #E95D0F;
 }
+.additionalData {
+    background-color: #429890;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    margin: auto;
+}
+.additionalData p{
+    margin-bottom: 0.5em;
+}
